@@ -4,9 +4,9 @@ const defaultSEOConfig = {
   titleTemplate: "%s | ToF Calculator",
   defaultTitle: "nextarter-chakra",
   description: "Next.js + chakra-ui + TypeScript template",
-  canonical: "https://github.com/lombeira",
+  canonical: "https://tof-character-dps.vercel.app/",
   openGraph: {
-    url: "https://github.com/lombeira",
+    url: "https://tof-character-dps.vercel.app/",
     title: "ToF Calculator",
     description: "A primeira e única calculadora de DPS de Tower of Fantasy",
     images: [

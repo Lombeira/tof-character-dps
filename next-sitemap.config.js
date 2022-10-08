@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 const NextSitemapConfig = {
-  siteUrl: "https://localhost:3000",
+  siteUrl: "https://tof-character-dps.vercel.app/",
   generateRobotsTxt: true,
 };
 
